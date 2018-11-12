@@ -1,0 +1,6 @@
+I1112 11:27:18.221458 28591 solver.cpp:332] Iteration 120000, loss = 2.51844
+I1112 11:27:18.221480 28591 solver.cpp:433] Iteration 120000, Testing net (#0)
+I1112 11:27:18.221519 28591 net.cpp:693] Ignoring source layer mbox_loss
+I1112 11:28:20.445837 28591 solver.cpp:546]     Test net output #0: detection_eval = 0.771182
+I1112 11:28:20.445947 28591 solver.cpp:337] Optimization Done.
+I1112 11:28:20.445952 28591 caffe.cpp:254] Optimization Done.
